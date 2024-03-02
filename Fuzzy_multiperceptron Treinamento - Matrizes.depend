@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709401104 source:c:\codeblocks projetos\fuzzy_multiperceptron treinamento - matrizes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
